@@ -744,8 +744,8 @@
 						<h1 style="font-size: 30px;">Please enter your minecraft username to continue</h1><br />
 						<form method="post" action="index.php">
 							<div class="input-group">
-								<input type="text" class="form-control" size="30" name="mc_name" placeholder="Minecraft Username" aria-describedby="basic-addon1"><br /><br />
-								<input type="submit" name="submit" value="Continue" <button type="button" class="btn btn-primary"></button></input>
+								<input type="text" class="form-control" size="30" name="mc_name" placeholder="Minecraft Username" aria-describedby="basic-addon1" /><br /><br />
+								<input type="submit" name="submit" value="Continue"><button type="button" class="btn btn-primary"></button></input>
 							</div>
 						</form>
 					</center>
