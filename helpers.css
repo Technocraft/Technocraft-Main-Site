@@ -1,0 +1,35 @@
+body#custom-body {
+	background: transparent url("blizzard.png") repeat scroll 0% 0%;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+div.main-content {
+	
+}
+
+div.main-content h1{
+	font-size: 25px;
+}
+
+div.main-content p{
+	font-size: 15px;
+	font-weight: 10;
+}
+
+div.sidebar.padding-fix {
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+div.sidebar h1 {
+	font-size: 30px;
+}
+
+div.sidebar p {
+	font-size: 14px;
+}
+
+.twitter-timeline {
+	height: 400px;
+}
