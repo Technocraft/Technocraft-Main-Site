@@ -1,0 +1,27 @@
+/*
+	#=======================================#
+	#	 									#
+	#	 Copyright (c) 2015 Martijn Heil	#
+	#										#
+	#			Licensed under MIT:			#
+	#		http://tinyurl.com/kwtz487		#
+	#										#
+	#				 Email:					#
+	#		 ninjoh@technocraft-mc.nl		#
+	#										#
+	#				 Git Repo:				#
+	#		http://tinyurl.com/qcdho3n		#
+	#										#
+	#=======================================#
+*/
+div.buy-button {
+	float: right;
+}
+div.price {
+	float: left;
+}
+
+div.modal-price {
+	float: left;
+	font-weight: bold;
+}

@@ -15,11 +15,14 @@
 	#=======================================#
 <!-->										<!-->
 <!DOCTYPE html>
-<html lang="en">
+<html>
     <head>
 		<title>Technocraft</title>
 		
 		<link rel="stylesheet" href="helpers.css" />
+		
+		<!--Font-->
+		<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
 		
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
@@ -38,16 +41,16 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			  </button>
-			  <a class="navbar-brand" href="index.php">Technocraft</a>
+			  <a class="navbar-brand" href="http://www.technocraft-mc.nl/">Technocraft</a>
 			</div>
 
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			  <ul class="nav navbar-nav">
-				<li><a href="index.php">Home</a></li>
+				<li><a href="http://www.technocraft-mc.nl/">Home</a></li>
 				<li><a href="http://forum.technocraft-mc.nl" target="_blank">Forums</a></li>
-				<li class="active"><a href="support.php">Support <span class="sr-only">(current)</span></a></li>
-				<li><a href="http://store.technocraft-mc.nl/">Store</a></li>
+				<li><a href="http://www.technocraft-mc.nl/support.php">Support</a></li>
+				<li class="active"><a href="http://www.store.technocraft-mc.nl/">Store <span class="sr-only">(current)</span></a></li>
 				<li class="dropdown">
 				  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Vote <span class="caret"></span></a>
 				  <ul class="dropdown-menu" role="menu">
@@ -76,69 +79,26 @@
 		  </div><!-- /.container-fluid -->
 		</nav>
 		<div class="container">
-			<div class=col-md-9>
-				<div class="jumbotron">
-				  <h1>Support</h1>
-				  <p>for support, please email us at support@technocraft-mc.nl</p>
-				</div>
-			</div>
-			<div class="col-md-3">
-				<div class="jumbotron sidebar padding-fix">
-				
-					<!--Donate panel start-->
-					<div class="panel panel-default" style="margin-top: 15px;">
-					  <div class="panel-heading">
-						<h3 class="panel-title"><span class="glyphicon glyphicon-gift" aria-hidden="true"></span> Donate</h3>
-					  </div>
-					  <div class="panel-body">
-							<div class="btn-group">
-							  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-									Donate <span class="caret"></span>
-							 </button>
-								  <ul class="dropdown-menu" role="menu">
-									<li><a href="https://www.serverbuilds.nl/serverlist/view/15921" target="_blank">Factions</a></li>
-									<li class="disabled"><a href="#">Skyblock</a></li>
-								  </ul>
-								</div>
-					  </div>
-					</div>
-					<!--Donate panel end-->
-					
-					<!--Twitter panel start-->
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<h3 class="panel-title"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span> Twitter</h3>
+			<div class=col-md-12 style="padding-top: 50px;">
+				<div class="jumbotron main-content">
+					<center>
+						<div class="row">
+						  <div class="col-xs-6 col-md-3" style="float: left;">
+							<a href="#" class="thumbnail" style="cursor: not-allowed;">
+							  <img src="skyblock.png" alt="...">
+							</a>
+						  </div>
+						  <div class="col-xs-6 col-md-3" style="float: right;">
+							<a href="http://www.store.technocraft-mc.nl/factions" class="thumbnail">
+							  <img src="factions.png" alt="...">
+							</a>
+						  </div>
 						</div>
-						<div class="panel-body">
-
-											
-											
-										<a class="twitter-timeline"  href="https://twitter.com/Technocraft375" data-widget-id="567377639871377408">Tweets by @Technocraft375</a>
-										<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-						</div>
-					</div>
-					<!--Twitter panel end-->
-					
-					<!--Server Info Panel Start-->
-					<div class="panel panel-default">
-					
-					  <div class="panel-heading"><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> Server Info</div>
-					  <div class="panel-body custom-server-info">
-					  <p><strong>Server IP:</strong></p>
-					  <p class="text-danger"><strong>play.technocraft-mc.nl</strong></p>
-					  <p><strong>Minecraft Version:</strong></p>
-					  <p class="text-danger"><strong>1.8</strong></p>
-					
-					
-					</div>
-					
-							</div>
-				  <!--Server Info Panel End-->
+					</center>
 				</div>
 			</div>
 		</div>
-	
-	
+		
 			<!--Google analytics-->
 			<script>
 			
@@ -152,10 +112,10 @@
 
 			</script>
 			<!--Google analytics-->
+			
 		
-	
 		    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 			<!-- Latest compiled and minified JavaScript -->
 			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
     </body>

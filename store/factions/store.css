@@ -1,0 +1,11 @@
+div.buy-button {
+	float: right;
+}
+div.price {
+	float: left;
+}
+
+div.modal-price {
+	float: left;
+	font-weight: bold;
+}

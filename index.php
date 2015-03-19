@@ -1,4 +1,21 @@
-<html>
+<!-->										<!-->
+	#=======================================#
+	#	 									#
+	#	 Copyright (c) 2015 Martijn Heil	#
+	#										#
+	#			Licensed under MIT:			#
+	#		http://tinyurl.com/kwtz487		#
+	#										#
+	#				 Email:					#
+	#		 ninjoh@technocraft-mc.nl		#
+	#										#
+	#				 Git Repo:				#
+	#		http://tinyurl.com/qcdho3n		#
+	#										#
+	#=======================================#
+<!-->										<!-->
+<!DOCTYPE html>
+<html lang="en">
     <head>
 		<title>Technocraft</title>
 		
