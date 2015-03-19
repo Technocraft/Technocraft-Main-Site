@@ -1,10 +1,10 @@
-<!-->										<!-->
+<!-->
 	#=======================================#
 	#	 									#
 	#	 Copyright (c) 2015 Martijn Heil	#
 	#										#
 	#			Licensed under MIT:			#
-	#		http://tinyurl.com/kwtz487		#
+	#		http://tinyurl.com/nl973ym		#
 	#										#
 	#				 Email:					#
 	#		 ninjoh@technocraft-mc.nl		#
@@ -13,7 +13,7 @@
 	#		http://tinyurl.com/qcdho3n		#
 	#										#
 	#=======================================#
-<!-->										<!-->
+<!-->
 <!DOCTYPE html>
 <html lang="en">
     <head>

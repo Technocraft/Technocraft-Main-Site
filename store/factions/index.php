@@ -1,3 +1,19 @@
+<!-->
+	#=======================================#
+	#	 									#
+	#	 Copyright (c) 2015 Martijn Heil	#
+	#										#
+	#			Licensed under MIT:			#
+	#		http://tinyurl.com/nl973ym		#
+	#										#
+	#				 Email:					#
+	#		 ninjoh@technocraft-mc.nl		#
+	#										#
+	#				 Git Repo:				#
+	#		http://tinyurl.com/qcdho3n		#
+	#										#
+	#=======================================#
+<!-->
 <?php if (isset($_POST['mc_name'])) {
 		if($_POST['mc_name']) {
 ?>
@@ -10,7 +26,7 @@
 		<link rel="stylesheet" href="store.css" />
 
 		<!--Helping css-->
-		<link rel="stylesheet" href="helpers.css" />
+		<link rel="stylesheet" href="http://www.technocraft-mc.nl/helpers.css" />
 		
 		<!--Font-->
 		<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
@@ -550,7 +566,7 @@
     <head>
 		<title>Technocraft</title>
 		
-		<link rel="stylesheet" href="helpers.css" />
+		<link rel="stylesheet" href="http://www.technocraft-mc.nl/helpers.css" />
 		
 		<!--Font-->
 		<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
@@ -661,7 +677,7 @@
     <head>
 		<title>Technocraft</title>
 		
-		<link rel="stylesheet" href="helpers.css" />
+		<link rel="stylesheet" href="http://www.technocraft-mc.nl/helpers.css" />
 		
 		<!--Font-->
 		<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>

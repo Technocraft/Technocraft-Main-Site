@@ -1,10 +1,10 @@
-<!-->										<!-->
+<!-->
 	#=======================================#
 	#	 									#
 	#	 Copyright (c) 2015 Martijn Heil	#
 	#										#
 	#			Licensed under MIT:			#
-	#		http://tinyurl.com/kwtz487		#
+	#		http://tinyurl.com/nl973ym		#
 	#										#
 	#				 Email:					#
 	#		 ninjoh@technocraft-mc.nl		#
@@ -13,13 +13,13 @@
 	#		http://tinyurl.com/qcdho3n		#
 	#										#
 	#=======================================#
-<!-->										<!-->
+<!-->
 <!DOCTYPE html>
 <html>
     <head>
 		<title>Technocraft</title>
 		
-		<link rel="stylesheet" href="helpers.css" />
+		<link rel="stylesheet" href="http://www.technocraft-mc.nl/helpers.css" />
 		
 		<!--Font-->
 		<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
