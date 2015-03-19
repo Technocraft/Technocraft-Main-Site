@@ -640,7 +640,7 @@
 							<form method="post" action="index.php">
 								<div class="input-group">
 									<input type="text" class="form-control" size="30" name="mc_name" placeholder="Minecraft Username" aria-describedby="basic-addon1"><br /><br />
-									<input type="submit" name="submit" value="Continue" <button type="button" class="btn btn-primary"></button></input>
+									<input type="submit" name="submit" value="Continue" class="btn btn-primary" />
 								</div>
 							</form>
 					</center>
