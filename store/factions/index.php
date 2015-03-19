@@ -18,7 +18,7 @@
 		if($_POST['mc_name']) {
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
 		<title>Technocraft</title>
 		
@@ -562,7 +562,8 @@
 <?php }	else {//If field isnt filled in?>
 
 <!--If field isnt filled in html here-->
-<html>
+<!DOCTYPE html>
+<html lang="en">
     <head>
 		<title>Technocraft</title>
 		
@@ -672,8 +673,8 @@
 <?php }
 } else {?>
 <!--If form doensnt exist html here-->
-
-<html>
+<!DOCTYPE html>
+<html lang="en">
     <head>
 		<title>Technocraft</title>
 		
