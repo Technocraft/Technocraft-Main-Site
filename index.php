@@ -133,13 +133,16 @@
 					  <p class="text-danger"><strong>1.8</strong></p>
 					
 					
-					</div>
+					  </div>
 					
-							</div>
+					</div>
 				  <!--Server Info Panel End-->
 				</div>
 			</div>
 		</div>
+		<footer class="helper-footer">
+			<p>Test</p>
+		</footer>
 	
 			<!--Google analytics-->
 			<script>

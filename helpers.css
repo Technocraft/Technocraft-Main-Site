@@ -36,6 +36,8 @@ div.sidebar.padding-fix {
 	padding-right: 10px;
 	padding-left: 10px;
 	padding-bottom: 10px;
+	width: 255px;
+	position: fixed;
 }
 
 div.sidebar h1 {
@@ -48,4 +50,9 @@ div.sidebar p {
 
 .twitter-timeline {
 	height: 400px;
+}
+footer.helper-footer {
+	bottom: 0;
+	text-align: center;
+	position: relative;
 }
