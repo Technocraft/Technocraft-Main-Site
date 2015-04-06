@@ -1,0 +1,82 @@
+/*
+	#=======================================#
+	#	 									#
+	#	 Copyright (c) 2015 Martijn Heil	#
+	#										#
+	#			Licensed under MIT:			#
+	#		http://tinyurl.com/nl973ym		#
+	#										#
+	#				 Email:					#
+	#		 ninjoh@technocraft-mc.nl		#
+	#										#
+	#				 Git Repo:				#
+	#		http://tinyurl.com/qcdho3n		#
+	#										#
+	#=======================================#
+*/
+@media (min-width: 992px) {
+div.sidebar.padding-fix {
+	width: 255px;
+	position: fixed;
+}
+}
+@media all {
+body#custom-body {
+	/*background: transparent url("blizzard.png") repeat scroll 0% 0%;*/
+	font-family: 'Droid Sans', sans-serif;
+}
+
+div.main-content {
+	margin-top: 30px;
+}
+
+div.main-content h1{
+	font-size: 25px;
+}
+
+div.main-content p{
+	font-size: 15px;
+	font-weight: 10;
+}
+
+div.sidebar.padding-fix {
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-top: 30px;
+}
+
+div.sidebar h1 {
+	font-size: 30px;
+}
+
+div.sidebar p {
+	font-size: 14px;
+}
+
+.twitter-timeline {
+	height: 400px;
+}
+footer.helper-footer {
+	bottom: 0;
+	text-align: center;
+	position: relative;
+}
+
+div.helper-poll p {
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+li#helper-ip,
+li#helper-ip:focus,
+li#helper-ip:hover,
+li#helper-ip a,
+li#helper-ip a:hover,
+li#helper-ip a:focus {
+  cursor: default;
+  color: white;
+  background-color: inherit;
+}
+}
+
