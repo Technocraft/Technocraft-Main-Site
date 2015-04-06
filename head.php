@@ -19,27 +19,5 @@
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" />
 
-		<!--Optional theme trick-->
-		<?php session_start(); ?>
-		
-		<?php if (isset($_SESSION['theme']) && $_SESSION['theme'] == 'night') { ?>
-		
-		
-		<link rel="stylesheet" href="https://bootswatch.com/darkly/bootstrap.min.css">
-		
-		
-		<?php } elseif (isset($_SESSION['theme']) && $_SESSION['theme'] == 'day') { ?>
-		
-		
-		<link rel="stylesheet" href="https://bootswatch.com/flatly/bootstrap.min.css">
-		
-		
-		<?php } elseif (isset($_SESSION['theme']) && $_SESSION['theme'] == 'metro') { ?>
+		<!--Theme-->
 		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootswatch/3.3.4/cosmo/bootstrap.min.css" />
-		<?php } else { ?>
-		
-		
-		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootswatch/3.3.4/cosmo/bootstrap.min.css" />
-		
-		
-		<?php } ?>
