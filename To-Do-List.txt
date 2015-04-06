@@ -1,2 +1,0 @@
-1. Add copyright notice in the footer of every page..
-2. Add a poll system
