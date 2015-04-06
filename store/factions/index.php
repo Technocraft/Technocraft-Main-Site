@@ -31,7 +31,7 @@ if (isset($_POST['mc_name'])) {
 		//Configuration
 		$title = 'Technocraft - Store';
 
-		include('../../head.php'); 
+		include('../../inc/head.inc.php'); 
 		?>
 		<!--Store specific css-->
 		<link rel="stylesheet" href="store.css" />
@@ -512,7 +512,7 @@ if (isset($_POST['mc_name'])) {
 		//Configuration
 		$title = 'Technocraft - Store';
 
-		include('../../head.php'); 
+		include('../../inc/head.inc.php'); 
 		?>
     </head>
     <body id="custom-body">
@@ -560,7 +560,7 @@ if (isset($_POST['mc_name'])) {
 		//Configuration
 		$title = 'Technocraft - Store';
 
-		include('../../head.php'); 
+		include('../../inc/head.inc.php'); 
 		?>
     </head>
     <body id="custom-body">

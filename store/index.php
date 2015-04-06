@@ -28,7 +28,7 @@ $current_nav = 'store';
 		//Configuration
 		$title = 'Technocraft - Store';
 
-		include('../head.php'); 
+		include('../inc/head.inc.php'); 
 		?>
     </head>
     <body id="custom-body">

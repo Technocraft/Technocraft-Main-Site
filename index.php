@@ -24,7 +24,7 @@ $current_nav = 'home';
 <!DOCTYPE html>
 <html lang="en">
     <head>
-		<?php include('head.php'); ?>
+		<?php include('./inc/head.inc.php'); ?>
     </head>
     <body id="custom-body">
 	<!--Nav start-->
@@ -38,7 +38,7 @@ $current_nav = 'home';
 					?>
 				</div>
 			</div>
-				<?php include('sidebar.php'); ?>
+				<?php include('./inc/sidebar.inc.php'); ?>
 		</div>
 			<!--Google analytics-->
 			<script src="./inc/google_analytics.js"></script> 

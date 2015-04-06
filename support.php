@@ -21,7 +21,7 @@
 		//Configuration
 		$title = 'Technocraft - Support';
 
-		include('head.php'); 
+		include('./inc/head.inc.php'); 
 		?>
     </head>
     <body id="custom-body">
@@ -40,7 +40,7 @@
 				  <p>for support, please email us at <a href="mailto:support@technocraft-mc.nl">support@technocraft-mc.nl</a></p>
 				</div>
 			</div>
-			<?php include('sidebar.php');?>
+			<?php include('./inc/sidebar.inc.php');?>
 		</div>
 	
 			<!--Google analytics-->
