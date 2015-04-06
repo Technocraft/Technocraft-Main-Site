@@ -22,7 +22,7 @@ div.sidebar.padding-fix {
 }
 @media all {
 body#custom-body {
-	/*background: transparent url("blizzard.png") repeat scroll 0% 0%;*/
+	background: transparent url("blizzard.png") repeat scroll 0% 0%;
 	font-family: 'Droid Sans', sans-serif;
 }
 
