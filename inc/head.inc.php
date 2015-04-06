@@ -3,7 +3,7 @@
 		error_reporting(E_ERROR | E_WARNING | E_PARSE | E_NOTICE);
 		
 		//Include global configuration
-		include '/inc/config.inc.php';
+		include 'config.inc.php';
 		?>
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		
